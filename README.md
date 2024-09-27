@@ -1,5 +1,6 @@
-## Hi there 👋
 
+<h3>Hii</h3>
+I go by Midnight or Alice online, I like AI, LLMs, web development and psychology.
 <!--
 **MidnightMkI/MidnightMkI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
